@@ -1,0 +1,12 @@
+{
+  "district": "Chandpur",
+  "upazila": "Kachua",
+  "villages": [
+    { "id": 1, "name_bn": "কচুয়া", "name_en": "Kachua" },
+    { "id": 2, "name_bn": "আশ্রাফপুর", "name_en": "Ashrafpur" },
+    { "id": 3, "name_bn": "দিঘিরপাড়", "name_en": "Dighirpar" },
+    { "id": 4, "name_bn": "গোহাট", "name_en": "Gohat" },
+    { "id": 5, "name_bn": "শ্রীপুর", "name_en": "Shripur" },
+    { "id": 6, "name_bn": "চন্দ্রপুর", "name_en": "Chandrapur" }
+  ]
+}
