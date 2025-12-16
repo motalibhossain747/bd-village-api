@@ -1,0 +1,12 @@
+{
+  "district": "Chandpur",
+  "upazila": "Faridganj",
+  "villages": [
+    { "id": 1, "name_bn": "পাইকপাড়া", "name_en": "Paik Para" },
+    { "id": 2, "name_bn": "ভোটাল", "name_en": "Votal" },
+    { "id": 3, "name_bn": "গুপ্টি", "name_en": "Gupti" },
+    { "id": 4, "name_bn": "রামচন্দ্রপুর", "name_en": "Ramchandrapur" },
+    { "id": 5, "name_bn": "লক্ষ্মীপুর", "name_en": "Lakshmipur" },
+    { "id": 6, "name_bn": "রূপসা", "name_en": "Rupsha" }
+  ]
+}
