@@ -1,0 +1,12 @@
+{
+  "district": "Chandpur",
+  "upazila": "Hajiganj",
+  "villages": [
+    { "id": 1, "name_bn": "হাজীগঞ্জ", "name_en": "Hajiganj" },
+    { "id": 2, "name_bn": "বাকিলা", "name_en": "Bakila" },
+    { "id": 3, "name_bn": "কালচোঁ", "name_en": "Kalcho" },
+    { "id": 4, "name_bn": "রামপুর", "name_en": "Rampur" },
+    { "id": 5, "name_bn": "নোয়াগাঁও", "name_en": "Noagaon" },
+    { "id": 6, "name_bn": "দেওয়ানপুর", "name_en": "Dewanpur" }
+  ]
+}
