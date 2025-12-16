@@ -1,0 +1,12 @@
+{
+  "district": "Chandpur",
+  "upazila": "Chandpur Sadar",
+  "villages": [
+    { "id": 1, "name_bn": "বাগাদী", "name_en": "Bagadi" },
+    { "id": 2, "name_bn": "মাইজদী", "name_en": "Maijdee" },
+    { "id": 3, "name_bn": "চান্দ্রা", "name_en": "Chandra" },
+    { "id": 4, "name_bn": "পুরান বাজার", "name_en": "Puran Bazar" },
+    { "id": 5, "name_bn": "ইব্রাহিমপুর", "name_en": "Ibrahimpur" },
+    { "id": 6, "name_bn": "রাজরাজেশ্বর", "name_en": "Rajarajeshwar" }
+  ]
+}
